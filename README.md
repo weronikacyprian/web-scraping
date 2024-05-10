@@ -1,4 +1,4 @@
-# web-scraping
+# Web scraping from the repository of Polish translations of Shakespeare
 This project aims to create a table with clear information from the repository of Polish translations of Shakespeare (https://polskiszekspir.uw.edu.pl/).
 
 I wanted to implement a way to crawl information such as the title of publication, author (as in translator), year and place of publication, and the name of the publisher; all from the target website. Then, I created and displayed a table that contained these unique records. The table consists of five columns: the row number in the table, publication title, author, year, place of publication and publisher. 
